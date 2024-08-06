@@ -2,7 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [How to Build an FPV 7" Drone (Analog)](#how-to-build-an-fpv-7-drone-analog)
-- [Parts List](#parts-list)
+- [Part Lists](#part-lists)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -11,7 +11,7 @@ In this tutorial, I’ll walk you through the process of building an FPV drone f
 
 ![alt text](<img/shared image.jpg>)
 
-# Parts List
+# Part Lists
 In this tutorial, we’ll be using the following parts to guide you through the FPV drone building process
 
 | Component       |                                                  | Links                 |     price      |
