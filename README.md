@@ -4,8 +4,8 @@
 - [How to Build an FPV 7" Drone (Analog)](#how-to-build-an-fpv-7-drone-analog)
 - [Part Lists](#part-lists)
   - [Essential Tools and Supplies](#essential-tools-and-supplies)
-  - [Frame](#frame)
-  - [Stack](#stack)
+  - [iFlight Chimera 7 pro V2 (Frame)](#iflight-chimera-7-pro-v2-frame)
+  - [IFlight BLITZ F7 (Stack)](#iflight-blitz-f7-stack)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -50,7 +50,7 @@ To successfully build your FPV drone, you’ll need the following tools and supp
 - 3M double sided foam tape
 -A collection of 2mm wide zip ties (ideally 15cm or longer)
 
-## Frame
+## iFlight Chimera 7 pro V2 (Frame)
 ![alt text](img/frame.png)
 
 The iFlight Chimera7 is a 7.5" longrange frame designed to give maximum stability and flight time during your cinematic shoots.
@@ -59,10 +59,10 @@ Fly smooth lines on the waterfront all the way to the Swiss Alps if you want! Ma
 
 Fly big batteries top-mounted, or even bigger batteries bottom-mounted, 6 cells recommended or 5 cells for slow cruising. But whatever style you fly, a Lipo or Lion pack will do the job.
 
-## Stack
+## IFlight BLITZ F7 (Stack)
 ![alt text](img/stack.png)
 
-mproved circuit design, better components and lower electrical noise!
+Improved circuit design, better components and lower electrical noise!
 
 DJI HD VTX Connector (Plug-and-Play / No soldering required)
 
