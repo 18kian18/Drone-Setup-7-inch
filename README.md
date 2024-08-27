@@ -5,6 +5,7 @@
 - [Part Lists](#part-lists)
   - [Essential Tools and Supplies](#essential-tools-and-supplies)
   - [Frame](#frame)
+  - [Stack](#stack)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -57,3 +58,14 @@ The iFlight Chimera7 is a 7.5" longrange frame designed to give maximum stabilit
 Fly smooth lines on the waterfront all the way to the Swiss Alps if you want! Made from a super-stiff carbon for minimum resonance and recommended 2806.5 motors for maximum 7.5" prop control.
 
 Fly big batteries top-mounted, or even bigger batteries bottom-mounted, 6 cells recommended or 5 cells for slow cruising. But whatever style you fly, a Lipo or Lion pack will do the job.
+
+## Stack
+![alt text](img/stack.png)
+
+mproved circuit design, better components and lower electrical noise!
+
+DJI HD VTX Connector (Plug-and-Play / No soldering required)
+
+FC indicator LEDs for visual debugging
+
+With LC filter
