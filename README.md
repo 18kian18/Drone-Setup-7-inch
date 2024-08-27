@@ -6,6 +6,7 @@
   - [Essential Tools and Supplies](#essential-tools-and-supplies)
   - [iFlight Chimera 7 pro V2 (Frame)](#iflight-chimera-7-pro-v2-frame)
   - [IFlight BLITZ F7 (Stack)](#iflight-blitz-f7-stack)
+  - [Emax ECO II (Motors)](#emax-eco-ii-motors)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -69,3 +70,8 @@ DJI HD VTX Connector (Plug-and-Play / No soldering required)
 FC indicator LEDs for visual debugging
 
 With LC filter
+
+## Emax ECO II (Motors)
+![alt text](img/motor.png)
+
+I choose Emax ECO II 2807 6S 1300KV motors, for equipping 7-inch dronew build with Perfect Power and Torque Balance, Extended Flight Times with High Efficiency, efficient, smooth and stable flight performance, and durable motors that will elevate your flying experience.
