@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
 - [How to Build an FPV 7" Drone (Analog)](#how-to-build-an-fpv-7-drone-analog)
 - [Part Lists](#part-lists)
+  - [Essential Tools and Supplies](#essential-tools-and-supplies)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -21,7 +22,7 @@ In this tutorial, we’ll be using the following parts to guide you through the 
 | Motors          |Emax ECO II 2807 6S 1300KV (4pcs)                 |https://rb.gy/76ggqy   | ₱939   | 
 | Propellers      |7040 FPV Drone 7 inch 3-Blade Propellers          |https://rb.gy/7qmuit   | ₱498   |
 | Battery         |RC LiPo Battery 6S 22.2V 35c XT60 plug            |https://rb.gy/9fjomg   | ₱2,925 |
-| GPS Module      |HGLRC M100-5883 GPS Module                        |https://cl.gy/cNaCB    | ₱791   |
+| GPS Module      |HGLRC M100-5883 GPS Module              w          |https://cl.gy/cNaCB    | ₱791   |
 | Receiver        |RadioMaster RP4TD ELRS Diversity FPV Receiver     |https://cl.gy/ZPOvG    | ₱1736.68 |
 | Transmitter     |RADIOMASTER ELRS Radio Controller TX12 MK II      |https://cl.gy/ebIRj    | ₱11,317|
 | Goggles         |Skyzone Cobra X Goggles                           |https://cl.gy/SXWoz    | ₱15,000|
@@ -31,3 +32,18 @@ In this tutorial, we’ll be using the following parts to guide you through the 
 | Gimbal          |Camera Gimba                                      |https://cl.gy/YGFNp    | ₱143   |
 | Filter          |IFlight Anti Spark Filter with XT60E-M            |https://cl.gy/Xpwqu    | ₱1,310 |
 | Servo           |180 Degree  Micro Servo Motor                     |https://cl.gy/HoHzu    | ₱81    |
+
+**Total Estimated Cost:** <span class="math-inline">₱53,391.68 \(approx\.\)<br>
+**Notes:**
+* Prices are based on estimates and may vary depending on the retailer.
+* Additional parts and tools may be required for assembly and flight operation (e.g., soldering iron, battery charger).
+</span>
+
+## Essential Tools and Supplies
+To successfully build your FPV drone, you’ll need the following tools and supplies. Some of these items may already be in your toolkit, while others can be easily found online or at your local hardware store:
+- Soldering Iron and solder
+- Soldering Flux
+- A pair of scissors for stripping and cutting wires
+- Shrinkable tube to organize wires
+- 3M double sided foam tape
+-A collection of 2mm wide zip ties (ideally 15cm or longer)
