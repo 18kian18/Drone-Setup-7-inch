@@ -4,11 +4,12 @@
 - [How to Build an FPV 7" Drone (Analog)](#how-to-build-an-fpv-7-drone-analog)
 - [Part Lists](#part-lists)
   - [Essential Tools and Supplies](#essential-tools-and-supplies)
+  - [Frame](#frame)
 
 
 # How to Build an FPV 7" Drone (Analog)
 
-In this tutorial, I’ll walk you through the process of building an FPV drone from scratch, providing detailed guidance for analogue FPV systems. We’ll cover everything from selecting the right components, to wiring and assembly, and even share insider tips and tricks to ensure you have a reliable and enjoyable FPV drone experience.
+In this tutorial, I’ll walk you through the process of building an FPV drone from scratch, providing detailed guidance for analogue FPV systems. We’ll cover everything from selecting the right components, to wiring and assembly, and even share insider tips and tricks to ensure you have a reliable and enjoyable FPV drone experience. This is about 653.3 grams of drone i built.
 
 ![alt text](<img/shared image.jpg>)
 
@@ -47,3 +48,12 @@ To successfully build your FPV drone, you’ll need the following tools and supp
 - Shrinkable tube to organize wires
 - 3M double sided foam tape
 -A collection of 2mm wide zip ties (ideally 15cm or longer)
+
+## Frame
+![alt text](img/frame.png)
+
+The iFlight Chimera7 is a 7.5" longrange frame designed to give maximum stability and flight time during your cinematic shoots.
+
+Fly smooth lines on the waterfront all the way to the Swiss Alps if you want! Made from a super-stiff carbon for minimum resonance and recommended 2806.5 motors for maximum 7.5" prop control.
+
+Fly big batteries top-mounted, or even bigger batteries bottom-mounted, 6 cells recommended or 5 cells for slow cruising. But whatever style you fly, a Lipo or Lion pack will do the job.
