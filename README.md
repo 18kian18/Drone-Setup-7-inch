@@ -79,6 +79,7 @@ I choose Emax ECO II 2807 6S 1300KV motors, for equipping 7-inch dronew build wi
 
 ## RUSH TANK MAX SOLO (FPV Setup)
 ![alt text](img/VTX.png)
+
 I choose RUSH TANK MAX SOLO 5.8GHz 2.5W High Power 48CH VTX Video Transmitter with CNC shell for RC FPV Long Range Fixed-wing Drones. Developed for extreme long-range pilots,compact and efficient active cooling design unleashes the full performance of the VTX.
 
 LOCK-ON technology with jitter-free transmit channels and no sweep interference for multi-pilot flights.
