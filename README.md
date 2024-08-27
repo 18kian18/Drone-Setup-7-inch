@@ -7,6 +7,7 @@
   - [iFlight Chimera 7 pro V2 (Frame)](#iflight-chimera-7-pro-v2-frame)
   - [IFlight BLITZ F7 (Stack)](#iflight-blitz-f7-stack)
   - [Emax ECO II (Motors)](#emax-eco-ii-motors)
+  - [RUSH TANK MAX SOLO (FPV Setup)](#rush-tank-max-solo-fpv-setup)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -75,3 +76,13 @@ With LC filter
 ![alt text](img/motor.png)
 
 I choose Emax ECO II 2807 6S 1300KV motors, for equipping 7-inch dronew build with Perfect Power and Torque Balance, Extended Flight Times with High Efficiency, efficient, smooth and stable flight performance, and durable motors that will elevate your flying experience.
+
+## RUSH TANK MAX SOLO (FPV Setup)
+![alt text](img/VTX.png)
+I choose RUSH TANK MAX SOLO 5.8GHz 2.5W High Power 48CH VTX Video Transmitter with CNC shell for RC FPV Long Range Fixed-wing Drones. Developed for extreme long-range pilots,compact and efficient active cooling design unleashes the full performance of the VTX.
+
+LOCK-ON technology with jitter-free transmit channels and no sweep interference for multi-pilot flights.
+
+Factory power consitency calibration for all channels.
+
+Low noise DC-DC power supply drsign oor clean screens.  
