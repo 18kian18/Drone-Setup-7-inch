@@ -12,6 +12,7 @@ ww# Table of Contents
 - [Steps of Building FPV Drone](#steps-of-building-fpv-drone)
   - [Frame Assembly](#frame-assembly)
   - [Wiring Diagram](#wiring-diagram)
+  - [Motors Wiring](#motors-wiring)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -111,10 +112,17 @@ Featuring HGLRC M100-5883 GPS this gps has 10th generation chip which  extremely
 
 You don`t need to worry about the frame assemble because when you buy a frame for drone it provide manual of how to assemble that frame.
 
+<a href="/img/Chimera7 Pro V2 Frame Assembly Guide.pdf">Download Chimera7 Pro V2 Frame Assembly Guide</a>
+
 ## Wiring Diagram
 Before proceeding, it’s a good idea to create a wiring diagram on a piece of paper outlining how to connect all the components. If you’re using the components I recommended, here are connection diagrams you can follow.
 
 <a href="/img/BF12083＆BF11520_BLITZ F7 FC Wiring Diagram_20231101 (1).pdf" target="_blank" rel="noopener noreferrer">
   Download Wiring Diagram (PDF)
 </a>
+
+## Motors Wiring
+I have a pdf that you can see on how to install properly motors in the ESC
+
+<a href="/img/ESC Wiring Diagram.pdf">Download ESC Wiring Diagram</a>
 
