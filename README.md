@@ -11,6 +11,7 @@ ww# Table of Contents
   - [HGLRC M100-5883 GPS Module](#hglrc-m100-5883-gps-module)
 - [Steps of Building FPV Drone](#steps-of-building-fpv-drone)
   - [Frame Assembly](#frame-assembly)
+  - [Wiring Diagram](#wiring-diagram)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -105,4 +106,15 @@ Suitable for drones and fixed-wing models, the receiver can be installed in virt
 Featuring HGLRC M100-5883 GPS this gps has 10th generation chip which  extremely fast positioning and also quickly identify the direction (Accurate positioning) and has a three mode positioning the GPS + Galileo + BDS and also have a stable signal which carefull modulated ceramic antenna and external expansion PCB and lastly On-board POWER power indicator, PPS positioning indicatorWorking status at a glance.
 
 # Steps of Building FPV Drone
+
 ## Frame Assembly
+
+You don`t need to worry about the frame assemble because when you buy a frame for drone it provide manual of how to assemble that frame.
+
+## Wiring Diagram
+Before proceeding, it’s a good idea to create a wiring diagram on a piece of paper outlining how to connect all the components. If you’re using the components I recommended, here are connection diagrams you can follow.
+
+<a href="/img/BF12083＆BF11520_BLITZ F7 FC Wiring Diagram_20231101 (1).pdf" target="_blank" rel="noopener noreferrer">
+  Download Wiring Diagram (PDF)
+</a>
+
