@@ -13,6 +13,19 @@ ww# Table of Contents
   - [Frame Assembly](#frame-assembly)
   - [Wiring Diagram](#wiring-diagram)
   - [Motors Wiring](#motors-wiring)
+- [What’s iNav?](#whats-inav)
+- [Why I use iNav on my Quads?](#why-i-use-inav-on-my-quads)
+- [Download iNav Configurator](#download-inav-configurator)
+- [Checking iNav Compatibility](#checking-inav-compatibility)
+- [Flashing  INAV](#flashing--inav)
+- [Default Values](#default-values)
+- [Setup Tab](#setup-tab)
+  - [Sensors](#sensors)
+  - [Pre-arming Checks](#pre-arming-checks)
+  - [Board Orientation](#board-orientation)
+- [Calibration Tab](#calibration-tab)
+- [Mixer Tab](#mixer-tab)
+- [Outputs Tab](#outputs-tab)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -126,3 +139,72 @@ I have a pdf that you can see on how to install properly motors in the ESC
 
 <a href="/img/ESC Wiring Diagram.pdf">Download ESC Wiring Diagram</a>
 
+![alt text](img/inav.png)
+
+# What’s iNav?
+Inav is a flight control software, which was forked from Clean Flight. The software supports both multi-rotors and fixed wings and has good GPS modes like Return to launch (RTH) etc. The software has a mission planner, which allows for setting full autopilot GPS way-point navigation. It supports a variety of Flight controller boards and is actively being developed by the community.
+
+# Why I use iNav on my Quads?
+While Betaflight is a popular choice for FPV (First Person View) racing drones, inav offers some distinct advantages that make it a compelling option for certain types of quadcopters, especially those built for long-range or autonomous flight. iNav stands out for its advanced GPS flight modes, far surpassing Betaflight’s capabilities. Not only it supports GPS return-to-home functionalities, but also position hold and autonomous waypoint missions.
+
+# Download iNav Configurator
+- Download the latest iNav Configurator here: https://github.com/iNavFlight/inav-configurator/releases
+
+# Checking iNav Compatibility
+- Before proceeding, verify if your flight controller is compatible with iNav.
+In the iNav Configurator, on the Firmware Flasher page, search for your FC’s firmware target. If it’s listed, congratulations, you can proceed to the next step. If not compatible, consider getting a new FC, such as the Speedybee F405 V4 – an affordable, feature-rich option ideal for an iNav drone build.
+
+ # Flashing  INAV
+ - First if you have an existing setup in Betaflight you need to backup your setup before you proceed INAV, Then if you have done backup you setup in BetaFlight.<br> Select the firmware target for your FC. Note that the Auto-select button may not work if your FC is still running Betaflight.
+
+Enable “Full chip erase” and leave the other options unchecked. 
+
+# Default Values
+- After installing iNav, you’ll be prompted to choose a preset that most closely matches your quad, such as 3-inch, 5-inch, or 7-inch quad.
+
+# Setup Tab
+- In the first page – Setup, you can view the status of your drone.
+![alt text](img/setup-tab.png)
+
+## Sensors
+At the very top of the iNav Configurator, you’ll see an array of blue icons representing the sensors. These icons light up when the sensors are configured and functioning correctly, and they are not turned on, it means the sensor is not configured or is missing from your setup.
+
+The Gyro and Accel sensors should always be on. If your flight controller (FC) has a barometer, the Baro icon should also light up. Other common sensors for FPV drones include GPS and Mag (magnetometer – compass).
+
+## Pre-arming Checks
+On the right-hand panel, you’ll find the Pre-arm checks. All the listed items should display green ticks in order to arm the quad.
+
+If any of these items show a red cross, don’t worry—we will guide you through the setup in this tutorial. For instance, if you have enabled GPS but don’t have a lock, “Navigation is safe” will show a red cross, which is common indoors. Some flight controllers can power up the GPS with just the USB connection, but others might require the battery to be plugged in, so be aware.
+
+## Board Orientation
+
+Hold the drone in your hand, point the camera towards the computer screen, and click the “Reset Z-Axis” button. Now move the drone around and see if the 3D model moves exactly as you do.
+
+Troubleshooting:
+- If the 3D model is inverted (upside down), and you have a red cross next to “UAV is levelled” in pre-arming checks, you can fix this in the board alignment tool, e.g., enter 180 in roll.
+- If the drone moves in the opposite direction because the FC is rotated, you can also correct this in the board alignment tool, e.g., enter 180 in yaw.
+
+# Calibration Tab
+
+Here we will calibrate the accelerometer.
+
+![alt text](img/calibrationtab.png)
+
+# Mixer Tab
+
+Normally, you shouldn’t need to change anything here since the “Default Values” should have applied these settings for you. However, it’s good practice to double-check.
+
+- Platform: “Multirotor”.
+- Mixer preset: “Quad X”.
+
+![alt text](img/mixertab.png)
+
+If you want to run reverse motor direction (props out), select “Reversed motor direction / Props-out configuration”.
+
+Click Save and Reboot.
+
+# Outputs Tab
+
+This tab functions similarly to the Motors tab in Betaflight.
+
+Note that motor outputs are disabled by default in iNav, a safety feature that differs from Betaflight. Motors WILL NOT work until you manually enable the “Enable motor and servo output” option.
