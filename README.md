@@ -1,6 +1,5 @@
-# Table of Contents
+ww# Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [How to Build an FPV 7" Drone (Analog)](#how-to-build-an-fpv-7-drone-analog)
 - [Part Lists](#part-lists)
   - [Essential Tools and Supplies](#essential-tools-and-supplies)
@@ -8,6 +7,9 @@
   - [IFlight BLITZ F7 (Stack)](#iflight-blitz-f7-stack)
   - [Emax ECO II (Motors)](#emax-eco-ii-motors)
   - [RUSH TANK MAX SOLO (FPV Setup)](#rush-tank-max-solo-fpv-setup)
+  - [RadioMaster RP4TD ELRS Diversity FPV Receiver](#radiomaster-rp4td-elrs-diversity-fpv-receiver)
+  - [HGLRC M100-5883 GPS Module](#hglrc-m100-5883-gps-module)
+- [Steps of Building FPV Drone](#steps-of-building-fpv-drone)
 
 
 # How to Build an FPV 7" Drone (Analog)
@@ -26,7 +28,7 @@ In this tutorial, we’ll be using the following parts to guide you through the 
 | Motors          |Emax ECO II 2807 6S 1300KV (4pcs)                 |https://rb.gy/76ggqy   | ₱939   | 
 | Propellers      |7040 FPV Drone 7 inch 3-Blade Propellers          |https://rb.gy/7qmuit   | ₱498   |
 | Battery         |RC LiPo Battery 6S 22.2V 35c XT60 plug            |https://rb.gy/9fjomg   | ₱2,925 |
-| GPS Module      |HGLRC M100-5883 GPS Module              w          |https://cl.gy/cNaCB    | ₱791   |
+| GPS Module      |HGLRC M100-5883 GPS Module                        |https://cl.gy/cNaCB    | ₱791   |
 | Receiver        |RadioMaster RP4TD ELRS Diversity FPV Receiver     |https://cl.gy/ZPOvG    | ₱1736.68 |
 | Transmitter     |RADIOMASTER ELRS Radio Controller TX12 MK II      |https://cl.gy/ebIRj    | ₱11,317|
 | Goggles         |Skyzone Cobra X Goggles                           |https://cl.gy/SXWoz    | ₱15,000|
@@ -86,4 +88,19 @@ LOCK-ON technology with jitter-free transmit channels and no sweep interference 
 
 Factory power consitency calibration for all channels.
 
-Low noise DC-DC power supply drsign oor clean screens.  
+Low noise DC-DC power supply design oor clean screens.  
+
+
+## RadioMaster RP4TD ELRS Diversity FPV Receiver
+![alt text](img/receiver.png)
+
+Featuring dual-channel 2.4GHz radios, the RP4TD excels in signal sensitivity, signal-to-noise ratio, and overall performance due to its optimized circuit design. The reliable DCDC power supply circuit ensures lower operating temperatures during extended usage. Additionally, the dual TCXO contributes to the utmost frequency stability and makes the RP4TD a leader in its class. The RP4TD features built in WIFI so you can wirelessly upgrade firmware to configure the receiver via the built-in WebUI with your PC or mobile phone.
+
+Suitable for drones and fixed-wing models, the receiver can be installed in virtually any application that requires a serial receiver!
+
+## HGLRC M100-5883 GPS Module
+![alt text](img/GPS.png)
+
+Featuring HGLRC M100-5883 GPS this gps has 10th generation chip which  extremely fast positioning and also quickly identify the direction (Accurate positioning) and has a three mode positioning the GPS + Galileo + BDS and also have a stable signal which carefull modulated ceramic antenna and external expansion PCB and lastly On-board POWER power indicator, PPS positioning indicatorWorking status at a glance.
+
+# Steps of Building FPV Drone
